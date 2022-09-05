@@ -1,0 +1,11 @@
+1- Change password
+-------------------
+
+AT+PSWD=xxxxx
+
+
+2- Change name of module
+AT+NAME=xxxxx
+
+
+3-  
